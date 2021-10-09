@@ -1,3 +1,3 @@
-import promptly from '../src/cli.js';
+import Name from '../src/cli.js';
 
-promptly();
+Name();
